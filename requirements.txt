@@ -1,0 +1,3 @@
+1. Googel authentication using googel cloud console and VerifyGoogleToken.
+
+2. Jwt token is stored in Local Storage Key (jwt) : value (eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjEsImVtYWlsIjoiYW1hbnBhbDhzc3M3NkBnbWFpbC5jb20iLCJpYXQiOjE3NjYzNzQ5MDYsImV4cCI6MTc2NjQ2MTMwNn0.vBIkVUFsQTBYjjlLtbe4MWdPI6FjyrJ-PbT72oU7_vA)
